@@ -2,4 +2,4 @@
 - 👀 I’m interested in kotlin
 - 🌱 I’m currently learning kotlin
 - 💞️ I’m looking to collaborate on kotlin
-- 📫 How to reach me write me in kotlin
+- 📫 How to reach me kotlin
